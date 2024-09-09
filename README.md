@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Venasetabo
+- 👋 Hi, I’m @Rashidi Etabo monde Alfred Alfred.
 - 👀 I’m interested in web programming 
 - 🌱 I’m currently learning JavaScript and PHP 
 - 💞️ I’m looking to collaborate on different project
