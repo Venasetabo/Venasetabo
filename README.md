@@ -1,11 +1,9 @@
-- 👋 Hi, I’m @Rashidi Etabo monde Alfred Alfred.
-- 👀 I’m interested in web programming 
-- 🌱 I’m currently learning JavaScript and PHP 
-- 💞️ I’m looking to collaborate on different project
+- 👋 Hi, I’m Rashidi Etabo monde Alfred.
+- 
+- 👀 I’m interested in web programming
+- 🌱 I’m currently learning JavaScript and PHP
 - 📫 How to reach me :
 - rashmondalfred@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 Venasetabo/Venasetabo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
